@@ -7,9 +7,11 @@
 	<key>CFBundleName</key>
 	<string>Halmak</string>
 	<key>CFBundleVersion</key>
-	<string>2.0.0</string>
+	<string>2.0.1</string>
 	<key>KLInfo_Halmak</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.halmak.halmak</string>
 		<key>TISIntendedLanguage</key>
